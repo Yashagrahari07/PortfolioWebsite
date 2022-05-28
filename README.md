@@ -19,3 +19,4 @@ This is Porfolio Website created by Yash Agrahari.
 
 # Features
 - All the Hyperlink used in the website have hover effect which turn their color from white to red.
+- Internal Linking is used in navigation bar of the Website.
