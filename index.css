@@ -6,6 +6,40 @@ body{
     padding:20px;
     margin:0;
 }
+.t{
+  align-content: center;
+}
+.navbar{
+   background-color:black;
+   border-radius:30px;
+}
+.navbar ul{
+   overflow:auto;
+}
+.navbar li{
+   float:left;
+   list-style:none;
+   margin: 13px 20px;
+}
+.navbar li a{
+   padding: 3px 3px;
+   text-decoration:none;
+   color:white;
+}
+.navbar li a:hover{
+   color:red;
+}
+.search{
+   float:right;
+   color:white;
+   padding: 12px 75px;
+}
+.navbar input{
+   border: 5px solid red;
+   border-radius: 14px;
+   padding: 10px 17px;
+   width:129px;
+}
 #header p{
     font-size:50pt;
     color:white;
@@ -37,8 +71,21 @@ h1{
     padding: 20px;
     margin-bottom: 10px;
     border-radius: 30px;
+    color:white;
+    text-align: left;
   }
-  
+  #intro img{
+    border:7px solid white;
+    border-radius: 5px;
+
+  }
+  .section img{
+    width:200px;
+    height: 200px;
+  }
+ #res a:hover{
+    color:red;
+ }
   #res {
     text-align: center;
     margin: 50px auto;
@@ -48,7 +95,7 @@ h1{
     margin: 20px 20px;
     display: inline-block;
     text-decoration: none;
-    color: black;
+    color: white;
   }
   
   li {
