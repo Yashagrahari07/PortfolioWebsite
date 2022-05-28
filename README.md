@@ -9,8 +9,7 @@ This is Porfolio Website created by Yash Agrahari.
 
 ![3](https://user-images.githubusercontent.com/92152225/170840974-df352d02-c098-4c42-b0c4-3592747f603c.png)
 
-![4](https://user-images.githubusercontent.com/92152225/170840977-da8faf9e-f3ec-4c91-a78b-b4ca2cac3a57.png)
-
+![4](https://user-images.githubusercontent.com/92152225/170842134-feb10629-3b0e-4abe-9b75-b5e4d7b9d777.png)
 
 ## Skills Used
 - HTML
