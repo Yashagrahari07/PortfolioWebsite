@@ -3,7 +3,7 @@
 This is Porfolio Website created by Yash Agrahari.
 
 ## Website Preview :
-![1](https://user-images.githubusercontent.com/92152225/170840970-5445abcc-d464-4f3a-8269-8a5ee90c44f8.png)
+![1](https://user-images.githubusercontent.com/92152225/170841804-67ee4761-fb19-463e-a9d3-9c79d085e330.png)
 
 ![2](https://user-images.githubusercontent.com/92152225/170840971-e988d956-9362-4afd-9f72-708be90dd4c5.png)
 
