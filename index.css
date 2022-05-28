@@ -13,6 +13,11 @@ body{
    background-color:black;
    border-radius:30px;
 }
+.foot{
+  background-color:black;
+  border-radius:30px;
+  color: white;
+}
 .navbar ul{
    overflow:auto;
 }
