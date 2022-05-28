@@ -16,3 +16,6 @@ This is Porfolio Website created by Yash Agrahari.
 - HTML
 - CSS
 - JS
+
+# Features
+- All the Hyperlink used in the website have hover effect which turn their color from white to red.
