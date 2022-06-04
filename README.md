@@ -2,6 +2,15 @@
 
 This is Porfolio Website created by Yash Agrahari.
 
+# Features
+- All the Hyperlink used in the website have hover effect which turn their color from white to red.
+- Internal Linking is used in navigation bar of the Website.
+
+## Skills Used
+- HTML
+- CSS
+- JS
+
 ## Website Preview :
 ![1](https://user-images.githubusercontent.com/92152225/170841804-67ee4761-fb19-463e-a9d3-9c79d085e330.png)
 
@@ -9,13 +18,9 @@ This is Porfolio Website created by Yash Agrahari.
 
 ![3](https://user-images.githubusercontent.com/92152225/170856662-02764892-2026-4fe6-a2b9-7550ed2cf0c6.png)
 
-![4](https://user-images.githubusercontent.com/92152225/170842134-feb10629-3b0e-4abe-9b75-b5e4d7b9d777.png)
+![4](https://user-images.githubusercontent.com/92152225/172020242-4d3f920b-c7a2-485e-8b8d-fec55c8fec76.png)
 
-## Skills Used
-- HTML
-- CSS
-- JS
 
-# Features
-- All the Hyperlink used in the website have hover effect which turn their color from white to red.
-- Internal Linking is used in navigation bar of the Website.
+
+
+
